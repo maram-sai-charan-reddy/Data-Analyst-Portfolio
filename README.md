@@ -1,8 +1,7 @@
-# Pavel Liaoshka - Data Analysis portfolio
+# Sai Charan Reddy Maram - Data Analysis portfolio
 ## About me
-Hello everyone! My name is Pavel, and this is my portfolio.<br>
+Hello everyone! My name is Charan, and this is my portfolio.<br>
 I love investigating different types of data, discovering insights, and representing it with beautiful visuals.<br>
-I have a background in digital marketing and financial data analysis.<br>
 
 You can see more information in my [**CV**](https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Data%20Analyst%20CV.pdf).
 
